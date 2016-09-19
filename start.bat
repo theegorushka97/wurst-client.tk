@@ -1,2 +1,2 @@
-jekyll serve -w
-pause
+jack p;
+end
